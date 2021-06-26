@@ -1,6 +1,7 @@
 # :zap: Engineering Utilities NPM Module
 
 * Converts engineering data and supplies useful information to the Engineer.
+* There is no actual 'engineering-utilities' npm module
 
 **Note:** to open web links in a new window use: _ctrl+click on link_
 
@@ -73,6 +74,10 @@ images.forEach(image => {
 
 * [Youtube Gary Simon: Writing & Publishing your First NPM Package!](https://www.youtube.com/watch?v=4zzbNac6f6Q)]
 
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
